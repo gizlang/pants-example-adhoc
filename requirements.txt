@@ -9,6 +9,6 @@ pytest==7.0.1
 # OpenAPI demo
 apispec==6.0.2
 apispec[marshmallow]==6.0.2
-marshmallow==3.19.0
+marshmallow==3.26.2
 flask==2.2.3
 werkzeug>=3.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
